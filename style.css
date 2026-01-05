@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
+
+p{
+    background-color: violet;
+    text-align: center;
+    border: 2px dotted black;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: teal;
+    border: 5px dashed black;
+    margin-left: 40%;
+}
